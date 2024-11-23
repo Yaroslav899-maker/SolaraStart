@@ -1,2 +1,2 @@
-wait(10)
+wait(0)
 game:GetService("StarterGui"):SetCore("SendNotification",{Icon="rbxassetid://137326812238568",Title="Solara",Text="Solara is activated, continue working!!!",Duration=10})
